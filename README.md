@@ -1,2 +1,2 @@
-# dio-challenge-github-rep
+# DIO Challenge
 Challenge project by DIO platform about GIT/Github
