@@ -1,0 +1,11 @@
+Download GIT: https://git-scm.com/downloads
+
+Alguns comandos para usar no GIT Bash:
+
+cd = redireciona ao diretório desejado
+mkdir = Cria um novo diretório
+ls = Apresenta os arquivos presentes na pasta
+clear ou Control + L = Limpa o terminal
+del = limpa o diretório
+
+mv = move a pasta para outra pasta
